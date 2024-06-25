@@ -71,22 +71,6 @@ Enter the names of the columns to compare in the first and second spreadsheets a
 
 The program will print any discrepancies found during the comparison.
 If no discrepancies are found, the program will print "All information matches."
-**Example**
-Enter the path for the first spreadsheet (e.g., spreadsheets/spreadsheet1.xlsx): spreadsheets/spreadsheet1.xlsx
-Enter the path for the second spreadsheet (e.g., spreadsheets/spreadsheet2.xlsx): spreadsheets/spreadsheet2.xlsx
-Enter the name of the column for employee IDs in the first spreadsheet: ID
-Enter the name of the column for employee IDs in the second spreadsheet: ID
-Are the names of the columns the same on both spreadsheets? (yes/no): yes
-Enter the number of columns to compare: 3
-Enter the name of column 1 to compare: Salary
-Enter the name of column 2 to compare: Bonus
-Enter the name of column 3 to compare: Department
-Please ignore the StatusLogger Error.
-Mismatch found for ID 123:
-  Salary vs Salary: 50000 vs 60000
-  Bonus vs Bonus: 5000 vs 5500
-  Department vs Department: HR vs Finance
-All information matches.
 
 **License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
