@@ -39,13 +39,13 @@ The program handles various edge cases such as missing columns, empty IDs, and m
 Download the Apache POI library from Apache POI Downloads.
 Extract the downloaded files.
 Add the following JAR files to your project's classpath:
-poi-5.2.2.jar
-poi-ooxml-5.2.2.jar
-poi-ooxml-schemas-5.2.2.jar
-xmlbeans-5.1.1.jar
-commons-compress-1.21.jar
-log4j-api-2.14.1.jar
-log4j-core-2.14.1.jar
+1. poi-5.2.2.jar
+2. poi-ooxml-5.2.2.jar
+3. poi-ooxml-schemas-5.2.2.jar
+4. xmlbeans-5.1.1.jar
+5. commons-compress-1.21.jar
+6. log4j-api-2.14.1.jar
+7. log4j-core-2.14.1.jar
 
 3. **Build and Run the Project:**
 
